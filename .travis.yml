@@ -1,3 +1,7 @@
+language: node_js
+node_js:
+    - "6"
+
 notifications:
     webhooks: http://mami.xvm.mit.edu:54856/travis
 
