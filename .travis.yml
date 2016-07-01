@@ -1,0 +1,6 @@
+notifications:
+    webhooks: http://mami.xvm.mit.edu:54856/travis
+
+branches:
+    only:
+        - auto
